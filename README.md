@@ -18,6 +18,13 @@ Our mission is to help young professionals and founders shape the future through
 
 This repository collects CVisiona's **POVs**: our points of view on where AI, cloud-native and the startup world are heading, with the notes and sources behind them.
 
+## What's inside
+
+| Folder | Description |
+| --- | --- |
+| [GPT Desk Setup](GPT%20Desk%20Setup/chatgpt-desk-setup.md) | How to use ChatGPT to design your ideal desk setup: four prompts that take you from an inspiration image to a gear shortlist, a dimensioned layout and a finished visual concept. |
+| *Upcoming* | More POVs and practical guides are on the way. |
+
 ## Where to find CVisiona
 
 ### 🌐 Website: [cvisiona.com](https://cvisiona.com)
