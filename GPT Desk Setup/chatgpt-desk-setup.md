@@ -229,4 +229,12 @@ Simplify the desk styling and show where the cables would run underneath.
 
 **Your requirements → Recommendations → Amazon shortlist → Comparison → Fit check → Visual concept**
 
+---
+
+## Support CVisiona
+
+If this guide helped you, you can support independent tech media by sponsoring the work on GitHub.
+
+<a href="https://github.com/sponsors/cloudmelon"><img alt="Sponsor cloudmelon on GitHub" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+
 *CVisiona · Practical technology, clearly explained.*

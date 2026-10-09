@@ -57,6 +57,12 @@ Mélony Qin is a former Microsoft product manager turned entrepreneur, a CNCF Am
 - **Business and sponsorship inquiries:** [business@cvisiona.com](mailto:business@cvisiona.com)
 - **Everything else:** follow along on [the website](https://cvisiona.com), [the newsletter](https://newsletter.cloudmelonvision.com) or either YouTube channel.
 
+## Support CVisiona
+
+If our stories help you, you can support independent tech media by sponsoring the work on GitHub.
+
+<a href="https://github.com/sponsors/cloudmelon"><img alt="Sponsor cloudmelon on GitHub" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+
 ## License
 
 See [LICENSE](LICENSE).
